@@ -1,121 +1,237 @@
-# Hi, I'm Brou Marcel 👋
+<h1 align="center">Hi 👋, I'm Brou Marcel</h1>
 
-### Full Stack Software Engineer | Java • Spring Boot • Angular • PostgreSQL
+<h3 align="center">
+Software Engineer | Java • Spring Boot • Angular | Enterprise Applications & Software Architecture
+</h3>
 
-Full Stack Software Engineer and Database Specialist with **13+ years of experience** building and maintaining business and enterprise applications.
-
-My experience spans software development, database systems, REST APIs, data management, and business process automation across domains including **document management, education, financial systems, payment platforms, and business applications**.
-
----
-
-## 🛠️ Core Stack
-
-**Backend**
-
-Java • Spring Boot • Spring MVC • Spring Data JPA • Hibernate
-PHP • Laravel • REST APIs
-
-**Frontend**
-
-Angular • AngularJS • React
-TypeScript • JavaScript
-
-**Databases**
-
-PostgreSQL • MySQL • SQL Server • Oracle
-
-**Engineering & Tools**
-
-Git • Docker • Redis • JWT • JPA • Hibernate
+<p align="center">
+Designing secure, scalable and maintainable software solutions.
+</p>
 
 ---
 
-## 💻 What I Build
+# 👨‍💻 About Me
 
-* Enterprise and business applications
-* Full Stack web applications
-* RESTful APIs and backend services
-* Database-driven applications
-* Document and workflow management systems
-* Financial and payment applications
-* Data management and reporting solutions
-* Business process automation
+Software Engineer with **13+ years of experience** designing, developing and maintaining enterprise software solutions.
+
+My expertise spans **Java, Spring Boot, Angular, PHP/Laravel and relational databases**, with hands-on experience building business-critical applications for **document management, education, financial systems, payment platforms and business process automation**.
+
+I enjoy transforming complex business requirements into **secure, scalable and maintainable software** through sound architecture, clean code and engineering best practices.
 
 ---
 
-## 🏗️ Professional Experience
+# 💡 Engineering Philosophy
 
-Throughout my career, I have contributed to software projects involving:
+> *"Technology is a means, not the objective."*
 
-**📁 Electronic Document Management**
+I believe software should solve business problems before showcasing technology.
 
-Full Stack development of a document management platform covering document lifecycle, workflows, hierarchical classification, access control, document processing, and archival management.
+My engineering principles are simple:
 
-**🎓 Education Management**
+- Business-driven software development
+- Clean Architecture & SOLID Principles
+- Security by Design
+- Documentation First
+- Maintainability over Complexity
+- Continuous Learning
 
-Development contribution to a government education management and governance platform supporting teacher allocation, educational data management, business rules, and decision-making processes.
-
-**💳 Financial & Payment Systems**
-
-Development of enterprise applications supporting automated payments, budget management, bank reconciliation, financial data processing, and reporting.
-
-**📊 Data Management & Business Intelligence**
-
-Database administration, SQL development, data extraction and transformation, operational analysis, dashboards, reporting, and business data visualization.
+My goal is to build software that remains reliable, understandable and maintainable years after its first release.
 
 ---
 
-## 🚀 Featured Projects
+# 🏗 Core Expertise
 
-Selected projects and technical case studies will be progressively documented here.
-
-* **Enterprise Document Management** — Java • Spring Boot • Angular • PostgreSQL
-* **Education Management & Governance** — Laravel • PHP • MySQL
-* **Financial & Payment Systems** — Java • AngularJS • PostgreSQL
-* **Business Intelligence & Financial Dashboards** — Laravel • Angular • MySQL
-
-> Some professional projects are private or subject to confidentiality restrictions. Public repositories and technical case studies will be added progressively.
-
----
-
-## 📚 Currently Improving
-
-I am continuously strengthening my software engineering practices, with a focus on:
-
-* Software Architecture
-* Clean Code & SOLID
-* Automated Testing
-* Docker & Containerization
-* CI/CD
-* Application Security
-* Performance Optimization
-* Observability
-* Cloud Technologies
-* Distributed Systems
-
-My goal is to build software that is **maintainable, secure, testable, scalable, and aligned with real business needs**.
+- Enterprise Software Development
+- Full Stack Web Applications
+- Backend Development with Java & Spring Boot
+- REST API Design & Development
+- Authentication & Authorization (JWT / RBAC)
+- Software Architecture
+- Database Design & SQL Optimization
+- Business Process Automation
+- Electronic Document Management Systems
+- Academic Information Systems
+- Financial Management Systems
 
 ---
 
-## 🤝 Open to
+# 🛠 Technology Stack
 
-* Full Stack Software Engineering opportunities
-* Java / Spring Boot projects
-* Angular applications
-* Enterprise application development
-* Database-intensive systems
-* Technical consulting and freelance projects
-* Software architecture and engineering challenges
-* Open-source collaboration
+## Backend
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- PHP
+- Laravel
+- REST APIs
+
+## Frontend
+
+- Angular
+- AngularJS
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- SQL Server
+- Oracle Database
+
+### Database Skills
+
+- Database Design
+- Data Modeling
+- SQL Optimization
+- Query Performance Tuning
+
+## DevOps & Tools
+
+- Git
+- GitHub
+- Docker
+- Redis
+- Maven
+- Gradle
+- Swagger / OpenAPI
+- Postman
 
 ---
 
-## 📫 Contact
+# 💻 What I Build
 
-📧 **Email:** [broumarcel87@gmail.com](mailto:broumarcel87@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/marcel-brou](https://www.linkedin.com/in/marcel-brou/)
+- Enterprise Information Systems
+- Business Applications
+- RESTful APIs
+- Full Stack Web Applications
+- Electronic Document Management Systems
+- Academic Management Systems
+- Financial Management Systems
+- Workflow Automation
+- Database-driven Applications
+- Reporting & Business Intelligence Solutions
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🏢 Professional Experience
+
+During my career, I have contributed to software projects across multiple business sectors.
+
+### 📁 Electronic Document Management
+
+Design and development of document management solutions including document lifecycle management, workflows, hierarchical classification, access control and digital archiving.
+
+### 🎓 Education Management
+
+Development of education management platforms supporting academic administration, educational data management, business rules and governance processes.
+
+### 💳 Financial & Payment Systems
+
+Development of enterprise applications supporting payment processing, budget management, bank reconciliation, financial reporting and business operations.
+
+### 📊 Data Management & Reporting
+
+Database administration, SQL development, reporting, dashboards, business intelligence and operational data analysis.
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Academic Management Platform *(In Progress)*
+
+Modern academic management platform built with Java, Spring Boot, Angular and PostgreSQL using Domain-Driven Design and Modular Monolith architecture.
+
+---
+
+## 📁 Electronic Document Management System
+
+Enterprise-grade platform for secure document management, workflows, classification plans and records management.
+
+---
+
+## 💼 Government Financial Management Platform *(Design Phase)*
+
+Financial monitoring platform featuring Excel imports, dashboards, payment tracking, budget analysis and reporting.
+
+---
+
+## 👥 Visitor Management System
+
+Digital visitor registration platform with reporting, dashboards and administrative workflows.
+
+---
+
+## 🔐 Laravel RBAC System *(Refactoring in Progress)*
+
+Role-Based Access Control application being redesigned with improved architecture and modern development practices.
+
+> **Some professional projects remain private due to confidentiality agreements. Public repositories and technical case studies will be progressively published.**
+
+---
+
+# 📚 Currently Building
+
+- 🎓 Academic Management Platform
+- 💼 Government Financial Management Platform
+- 📁 Electronic Document Management System
+
+---
+
+# 📖 Currently Learning
+
+I continuously improve my engineering skills in:
+
+- Software Architecture
+- Domain-Driven Design (DDD)
+- Clean Code & SOLID
+- Automated Testing
+- Docker & Containerization
+- CI/CD
+- Cloud-native Architecture
+- System Design
+- Observability
+- Performance Optimization
+- Distributed Systems
+
+---
+
+# 🎯 Career Objective
+
+To contribute to the design and development of high-quality enterprise software while continuously improving my expertise in software architecture, cloud technologies and modern engineering practices.
+
+---
+
+# 🤝 Open to
+
+- Software Engineer Opportunities
+- Java / Spring Boot Projects
+- Full Stack Development
+- Enterprise Software Development
+- Software Architecture
+- Technical Consulting
+- Freelance Projects
+- Open Source Collaboration
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**  
+**broumarcel87@gmail.com**
+
+💼 **LinkedIn**  
+**<PRIVATE_URL>**
+
+---
+
+> **"Good software is not defined by the number of technologies it uses, but by the clarity of its architecture and the value it delivers."**
+> **"I enjoy collaborating on meaningful software projects that solve real business problems. If you'd like to discuss software engineering, architecture or potential collaboration, feel free to connect."**
