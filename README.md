@@ -164,12 +164,6 @@ Financial monitoring platform featuring Excel imports, dashboards, payment track
 
 ---
 
-## 👥 Visitor Management System
-
-Digital visitor registration platform with reporting, dashboards and administrative workflows.
-
----
-
 ## 🔐 Laravel RBAC System *(Refactoring in Progress)*
 
 Role-Based Access Control application being redesigned with improved architecture and modern development practices.
@@ -229,9 +223,8 @@ To contribute to the design and development of high-quality enterprise software 
 **broumarcel87@gmail.com**
 
 💼 **LinkedIn**  
-**<PRIVATE_URL>**
+**<[PRIVATE_URL](https://www.linkedin.com/in/marcel-brou/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDNWIOz5kTWq7qtq6t7sndQ%3D%3D)>**
 
 ---
 
-> **"Good software is not defined by the number of technologies it uses, but by the clarity of its architecture and the value it delivers."**
-> **"I enjoy collaborating on meaningful software projects that solve real business problems. If you'd like to discuss software engineering, architecture or potential collaboration, feel free to connect."**
+> **"Good software is not defined by the number of technologies it uses, but by the clarity of its architecture and the value it delivers. I enjoy collaborating on meaningful software projects that solve real business problems. If you'd like to discuss software engineering, architecture or potential collaboration, feel free to connect."**
