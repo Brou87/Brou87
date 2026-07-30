@@ -223,7 +223,7 @@ To contribute to the design and development of high-quality enterprise software 
 **broumarcel87@gmail.com**
 
 💼 **LinkedIn**  
-**<[PRIVATE_URL](https://www.linkedin.com/in/marcel-brou/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BDNWIOz5kTWq7qtq6t7sndQ%3D%3D)>**
+**https://www.linkedin.com/in/marcel-brou/**
 
 ---
 
